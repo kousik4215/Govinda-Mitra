@@ -1,20 +1,67 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+An AI-powered devotional assistant designed to help Tirumala/Tirupati devotees with accurate information, guidance, and spiritual support.
 
-# Run and deploy your AI Studio app
+🌟 Key Features
 
-This contains everything you need to run your app locally.
+🛕 Important Places Information
 
-View your app in AI Studio: https://ai.studio/apps/drive/1SiL9uF4IwNpEX5KNjbvLr5uaOTEJnaFl
+Details of major temples & must-visit spiritual spots
 
-## Run Locally
+History and significance of each place
 
-**Prerequisites:**  Node.js
+Clean UI with visual guidance
 
+🚑 Emergency & Essential Places
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Police stations, medical centers, emergency contact points
+
+Laddu counters, luggage rooms, buses, accommodation counters
+
+Direct map links for quick navigation
+
+🕉 Spiritual Places With Importance
+
+Akasha Ganga, Papavinasanam, Silathoranam, Srivari Paadam
+
+Mythological background & spiritual relevance
+
+Audio explanations for a peaceful learning experience
+
+📢 Rules & Guidance for Devotees
+
+Dress code
+
+Darshan guidelines
+
+Prohibited items
+
+Dos and Don'ts inside the temple premises
+
+🎙 Audio Support
+
+Every detail can be heard through a built-in audio system
+
+Works in all 5 languages for easy accessibility
+
+Smooth performance on mobile & desktop
+
+🤖 Interactive AI Chatbot – “Narada”
+
+Ask any doubt related to Tirumala
+
+Darshan, accommodation, laddus, travel, sevas & timings
+
+Instant answers with maps + audio + language selection
+
+Built using Google AI Studio + React + Vercel
+
+🌐 Multilingual Support (5 Languages)
+
+English
+
+Telugu
+
+Hindi
+
+Tamil
+
+Kannada
