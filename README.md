@@ -1,3 +1,5 @@
+🙏 Govinda Mitra – Tirumala Devotee Assistance Platform
+
 An AI-powered devotional assistant designed to help Tirumala/Tirupati devotees with accurate information, guidance, and spiritual support.
 
 🌟 Key Features
